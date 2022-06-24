@@ -1,3 +1,2 @@
-def bolmee(x,y):
-	return x/y
-
+def cikarma(x,y):
+	return x-y
