@@ -1,3 +1,3 @@
-def bolme(x,y):
+def bolmee(x,y):
 	return x/y
 
